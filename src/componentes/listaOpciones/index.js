@@ -12,7 +12,6 @@ const ListaOpciones = () =>
             <option>Mobile</option>
             <option>Innovación y Gestión</option>
         </select>
-    console
     </div>
 }
 
